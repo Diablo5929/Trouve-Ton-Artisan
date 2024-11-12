@@ -1,0 +1,21 @@
+footer {
+  font-size: 1rem;
+
+  a {
+    padding: 1rem;
+    color: white;
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  img {
+    width: 50%;
+    max-width: 255px;
+  }
+
+  li {
+    list-style: none;
+  }
+}
