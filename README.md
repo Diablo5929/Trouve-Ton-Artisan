@@ -29,15 +29,10 @@ Bienvenue dans le projet "Trouve ton artisan" réaliser par 'Hugo Melin' pour le
 
 2. Ouvrez votre navigateur et accédez à `http://localhost:4200`.
 
-## Lancement du serveur mail
-
-1. Pour démarrer le serveur de mail, naviguez ver le répertoire du serveur :
-   `cd server`
-
-2. Exécutez :
+3. Exécutez :
    `node index` - Le serveur sera accessible sur le port 3000 et enverra les mails sur le port 1025.
 
-3. Lancez l'exécutable MailHog téléchargeable ici :
+4. Lancez l'exécutable MailHog téléchargeable ici :
    `https://github.com/mailhog/MailHog/releases/tag/v1.0.1`
 
 ## Application en ligne
